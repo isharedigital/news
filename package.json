@@ -1,0 +1,22 @@
+{
+  "name": "news-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isharedigital/news.git"
+  },
+  "keywords": [
+    "news"
+  ],
+  "author": "Son Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isharedigital/news/issues"
+  },
+  "homepage": "https://github.com/isharedigital/news#readme"
+}
